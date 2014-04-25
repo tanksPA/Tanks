@@ -31,11 +31,21 @@
 #page
 {
 	z-index: 1;
-	width: 0px;
-	min-height: 0px;
-	padding-top: 128px;
-	padding-right: 768px;
-	padding-bottom: 896px;
+	width: 264px;
+	min-height: 344px;
+	padding: 223px 252px 457px;
+}
+
+#u258-4
+{
+	z-index: 2;
+	width: 264px;
+	min-height: 144px;
+	line-height: 86px;
+	font-size: 72px;
+	text-align: center;
+	color: #FFFFFF;
+	position: relative;
 }
 
 #page .verticalspacer

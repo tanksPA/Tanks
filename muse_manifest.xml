@@ -1,9 +1,9 @@
 <manifest alg="2" build="5" opt="false" iceEnabled="true">
   <folder name="tablet">
     <folder name="css">
-      <file name="index.css" crc="3912295935" ref="tablet>index"/>
+      <file name="index.css" crc="202813696" ref="tablet>index"/>
     </folder>
-    <file name="index.html" crc="54813197" mt="1398430990853" redirect="false"/>
+    <file name="index.html" crc="195547193" mt="1398431681991" redirect="true"/>
   </folder>
   <folder name="phone">
     <folder name="css">
@@ -25,8 +25,8 @@
     <file name="museredirect.js" crc="299715755" ref="index"/>
   </folder>
   <folder name="images">
-    <file name="tanks--home-favicon.ico" crc="237462551" ref="phone>index"/>
+    <file name="tanks--home-favicon.ico" crc="237462551" ref="phone>index:tablet>index"/>
     <file name="1374853_444578519020536_8231970968802032586_n.jpg" crc="89088262" ref="index:phone>index"/>
   </folder>
-  <file name="index.html" crc="4253586499" mt="1398430990823" redirect="true"/>
+  <file name="index.html" crc="3801345187" mt="1398430990823" redirect="true"/>
 </manifest>
