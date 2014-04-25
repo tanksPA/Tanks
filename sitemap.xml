@@ -17,5 +17,6 @@
     <lastmod>2014-04-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-device-width: 370px)" href="http://pathapps.github.io/Tanks/phone/index.html"/>
   </url>
 </urlset>
