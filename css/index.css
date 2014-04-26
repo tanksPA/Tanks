@@ -7,7 +7,7 @@
 {
 	z-index: 1;
 	width: 960px;
-	min-height: 1919.9px;
+	min-height: 1919.8999999999996px;
 	padding-bottom: 0px;
 	margin-left: auto;
 	margin-right: auto;
@@ -19,14 +19,14 @@
 	margin-bottom: -89px;
 }
 
-#u262-4
+#u262-6
 {
 	z-index: 39;
 	margin-left: 20px;
 	position: relative;
 }
 
-#u262-4_img
+#u262-6_img
 {
 	display: block;
 	vertical-align: top;
@@ -42,7 +42,7 @@
 	padding-bottom: 977px;
 	position: relative;
 	left: -100px;
-	margin-top: 88px;
+	margin-top: 444px;
 	background: #FFFFFF url("../images/1374853_444578519020536_8231970968802032586_n.jpg") no-repeat center top;
 	background-size: cover !important;
 }
@@ -70,26 +70,14 @@
 	left: -1px;
 }
 
-#pu161
+#pu158
 {
 	width: 0.01px;
-	padding-bottom: 997px;
-	margin-left: 20px;
-	top: -849px;
-	margin-bottom: -849px;
+	padding-bottom: 158px;
+	margin-left: 940px;
+	top: -735px;
+	margin-bottom: -159px;
 	position: relative;
-}
-
-#u161
-{
-	z-index: 5;
-	width: 920px;
-	height: 166px;
-	border-color: #000000;
-	background-color: #6B080D;
-	position: fixed;
-	top: 1733px;
-	left: 20px;
 }
 
 #u158
@@ -105,7 +93,7 @@
 	text-align: center;
 	line-height: 86px;
 	position: fixed;
-	top: 902px;
+	top: 1258px;
 	left: 940px;
 }
 
@@ -119,8 +107,20 @@
 	font-family: coming-soon, sans-serif;
 	font-weight: 400;
 	position: fixed;
-	top: 988px;
+	top: 1344px;
 	left: 947px;
+}
+
+#u161
+{
+	z-index: 5;
+	width: 920px;
+	height: 166px;
+	border-color: #000000;
+	background-color: #6B080D;
+	position: fixed;
+	top: 2089px;
+	left: 20px;
 }
 
 #u162-4
@@ -135,7 +135,7 @@
 	font-family: bad-script, cursive;
 	font-weight: 400;
 	position: fixed;
-	top: 1745px;
+	top: 2101px;
 	left: 204px;
 }
 
@@ -147,7 +147,7 @@
 	border-color: #000000;
 	background-color: #993030;
 	position: fixed;
-	top: 1891px;
+	top: 2247px;
 	left: 19px;
 }
 
@@ -156,7 +156,7 @@
 	z-index: 15;
 	width: 793px;
 	position: fixed;
-	top: 1891px;
+	top: 2247px;
 	left: 62px;
 }
 
@@ -243,12 +243,12 @@
 {
 	z-index: 31;
 	width: 700px;
-	min-height: 212px;
+	min-height: 377px;
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
 	margin-left: 130px;
-	margin-top: 350px;
+	margin-top: 612px;
 	position: relative;
 }
 
