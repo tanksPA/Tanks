@@ -13,7 +13,7 @@
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="3983832653"/>
-    <file name="index.css" crc="4258219336" ref="index"/>
+    <file name="index.css" crc="155706341" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="3828297711" ref="index:phone>index:tablet>index"/>
@@ -29,5 +29,5 @@
     <file name="1374853_444578519020536_8231970968802032586_n.jpg" crc="89088262" ref="index:phone>index"/>
     <file name="u262-6.png" crc="168109187" ref="index"/>
   </folder>
-  <file name="index.html" crc="30150392" mt="1398533481475" redirect="true"/>
+  <file name="index.html" crc="140320959" mt="1398533674668" redirect="true"/>
 </manifest>
