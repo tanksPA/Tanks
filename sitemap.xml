@@ -19,11 +19,15 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://tankspa.github.io/Tanks/images/hype.gif</loc>
+    <lastmod>2014-04-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://tankspa.github.io/Tanks/index.html</loc>
     <lastmod>2014-04-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <xhtml:link rel="alternate" media="only screen and (max-device-width: 370px)" href="http://tankspa.github.io/Tanks/phone/index.html"/>
-    <xhtml:link rel="alternate" media="only screen and (max-device-width: 960px)" href="http://tankspa.github.io/Tanks/tablet/index.html"/>
   </url>
 </urlset>
